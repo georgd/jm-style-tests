@@ -42,7 +42,15 @@ BIBLIOGRAPHY
   {
     "type": "book",
     "title": "Australia - Transfer Pricing Table",
-    "accessed": "2010-10-01",
+    "accessed": {
+      "date-parts": [
+        [
+          2010,
+          10,
+          1
+        ]
+      ]
+    },
     "archive": "Quick Reference Tables IBFD",
     "multi": {
       "main": {},
