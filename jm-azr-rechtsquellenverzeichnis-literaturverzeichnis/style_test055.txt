@@ -1,0 +1,52 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "NLBNNAPB"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian law with amended version, title and short
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  SchUG.
+FIRST w/LOCATOR
+  123 SchUG.
+FIRST w/LABEL
+  Abs 123 SchUG.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 80/2020.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 80/2020",
+    "shortTitle": "SchUG",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

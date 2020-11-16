@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "7KDKJI5F"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Leg.comm. skipping book title
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Reischauer</i> in <i>Rummel/Lukas</i><sup>4</sup> § 932.
+FIRST w/LOCATOR
+  <i>Reischauer</i> in <i>Rummel/Lukas</i><sup>4</sup> § 932 123.
+FIRST w/LABEL
+  <i>Reischauer</i> in <i>Rummel/Lukas</i><sup>4</sup> § 932 Abs 123.
+SUBSEQUENT
+  <i>Reischauer</i> in <i>Rummel/Lukas</i><sup>4</sup> § 932.
+SUBSEQUENT w/LOCATOR
+  <i>Reischauer</i> in <i>Rummel/Lukas</i><sup>4</sup> § 932, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_commentary",
+    "title": "§ 932",
+    "author": [
+      {
+        "family": "Reischauer"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Rummel"
+      },
+      {
+        "family": "Lukas"
+      }
+    ],
+    "edition": "4",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    }
+  }
+]
+<<===== INPUT =====<<

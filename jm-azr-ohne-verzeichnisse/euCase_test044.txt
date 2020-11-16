@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "YU73S6YT"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ case w/ ECLI
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126.
+FIRST w/LOCATOR
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, 123.
+FIRST w/LABEL
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, Abs 123.
+SUBSEQUENT
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126.
+SUBSEQUENT w/LOCATOR
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Kom/DE",
+    "authority": "ecj",
+    "number": "178/84",
+    "issued": {
+      "date-parts": [
+        [
+          1987,
+          3,
+          12
+        ]
+      ]
+    },
+    "shortTitle": "Reinheitsgebot",
+    "note": "DOI: ECLI:EU:C:1987:126",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<
