@@ -22,8 +22,8 @@ FIRST w/LABEL
   <i>Eberle</i> in GedS Martens 351 Abs 123; <i>Karpen</i> in GedS Martens 137.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in <i>Selmer/Münch <span style="font-style:normal;">(Hrsg)</span></i>, Gedächtnisschrift für Wolfgang Martens (1987) 351.</div>
-  <div class="csl-entry"><i>Karpen</i>, Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland, in <i>Selmer/Münch <span style="font-style:normal;">(Hrsg)</span></i>, Gedächtnisschrift für Wolfgang Martens (1987) 137.</div>
+  <div class="csl-entry"><i>Eberle</i>, Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren, in GedS Martens (1987) 351.</div>
+  <div class="csl-entry"><i>Karpen</i>, Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland, in GedS Martens (1987) 137.</div>
 </div>
 <<===== RESULT =====<<
 

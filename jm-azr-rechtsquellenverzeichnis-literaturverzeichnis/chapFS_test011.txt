@@ -21,7 +21,7 @@ FIRST w/LABEL
   <i>Merkl</i> in FS Kelsen 252 Abs 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
-  <div class="csl-entry"><i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in <i>Verdroß <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaft, Staat und Recht – FS Kelsen (1931) 252.</div>
+  <div class="csl-entry"><i>Merkl</i>, Prolegomena zu einer Theorie des rechtlichen Stufenbaus, in FS Kelsen (1931) 252.</div>
 </div>
 <<===== RESULT =====<<
 

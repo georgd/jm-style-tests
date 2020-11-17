@@ -14,7 +14,7 @@ Two chapters from same book
 <<===== DESCRIPTION =====<<
 
 >>===== RESULT =====>>
-..[0] <i>Karpen</i>, Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland, in <i>Selmer/Münch <span style="font-style:normal;">(Hrsg)</span></i>, Gedächtnisschrift für Wolfgang Martens (1987) 137.
+..[0] <i>Karpen</i>, Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland, in GedS Martens (1987) 137.
 ..[1] <i>Eberle</i> in GedS Martens 351; <i>Eberle</i> in GedS Martens 351.
 >>[2] <i>Karpen</i> in GedS Martens 137.
 <<===== RESULT =====<<
@@ -223,9 +223,10 @@ Two chapters from same book
                 "main": {},
                 "_keys": {}
               },
+              "language-name": "de",
               "page-first": "137",
               "container-title-short": "GedS Martens",
-              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "container_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
               "title-short": "Verwertungsverbot",
               "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
               "title-sub": "",
@@ -412,13 +413,15 @@ Two chapters from same book
               },
               "page-first": "351",
               "container-title-short": "GedS Martens",
-              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "container_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
               "title-short": "Verwertungsverbot",
               "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
               "title-sub": "",
               "title-subjoin": ""
             },
             "sortkeys": [
+              "50country|",
+              null,
               "Y19870000Y00000000|"
             ],
             "first-reference-note-number": 0,
@@ -503,13 +506,15 @@ Two chapters from same book
               },
               "page-first": "351",
               "container-title-short": "GedS Martens",
-              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "container_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
               "title-short": "Verwertungsverbot",
               "title-main": "Zum Verwertungsverbot für rechtswidrig erlangte Informationen im Verwaltungsverfahren",
               "title-sub": "",
               "title-subjoin": ""
             },
             "sortkeys": [
+              "50country|",
+              null,
               "Y19870000Y00000000|"
             ],
             "first-reference-note-number": 0,
@@ -659,9 +664,10 @@ Two chapters from same book
                 "main": {},
                 "_keys": {}
               },
+              "language-name": "de",
               "page-first": "137",
               "container-title-short": "GedS Martens",
-              "chapters_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
+              "container_id": "chapter::Gedächtnisschrift für Wolfgang Martens",
               "title-short": "Verwertungsverbot",
               "title-main": "Verfassungsgeschichtliche Entwicklung des Gesetzesbegriffs in Deutschland",
               "title-sub": "",
