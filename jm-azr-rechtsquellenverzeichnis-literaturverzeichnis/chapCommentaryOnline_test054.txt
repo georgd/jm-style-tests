@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Kodek</i> in <i>Kodek</i>, Grundbuchsrecht § 13 GBG 123.
 FIRST w/LABEL
   <i>Kodek</i> in <i>Kodek</i>, Grundbuchsrecht § 13 GBG Abs 123.
+SUBSEQUENT
+  <i>Kodek</i> in <i>Kodek</i>, Grundbuchsrecht § 13 GBG.
+SUBSEQUENT w/LOCATOR
+  <i>Kodek</i> in <i>Kodek</i>, Grundbuchsrecht § 13 GBG 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Kodek</i>, Grundbuchsrecht (Stand 1. 9. 2016, rdb).</div>

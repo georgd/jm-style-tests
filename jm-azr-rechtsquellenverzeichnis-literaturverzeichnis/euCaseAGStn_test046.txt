@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   StN GA <i>Villalóu</i> C-237/15 PPU, <i>Langian</i>, 123.
 FIRST w/LABEL
   StN GA <i>Villalóu</i> C-237/15 PPU, <i>Langian</i>, Abs 123.
+SUBSEQUENT
+  StN GA <i>Villalóu</i> C-237/15 PPU, <i>Langian</i>.
+SUBSEQUENT w/LOCATOR
+  StN GA <i>Villalóu</i> C-237/15 PPU, <i>Langian</i>, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">StN GA <i>Villalóu</i> 6. 7. 2015, C-237/15 PPU, <i>Langian</i>.</div>

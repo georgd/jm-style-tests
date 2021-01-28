@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, 123.
 FIRST w/LABEL
   EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, Abs 123.
+SUBSEQUENT
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126.
+SUBSEQUENT w/LOCATOR
+  EuGH 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 12. 3. 1987, 178/84, <i>Kom/DE</i>, ECLI:EU:C:1987:126.</div>

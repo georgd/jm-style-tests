@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Alker/Hölter <span style="font-style:normal;">(Hrsg)</span></i>, Literaturwissenschaft 123.
 FIRST w/LABEL
   <i>Alker/Hölter <span style="font-style:normal;">(Hrsg)</span></i>, Literaturwissenschaft Abs 123.
+SUBSEQUENT
+  <i>Alker/Hölter <span style="font-style:normal;">(Hrsg)</span></i>, Literaturwissenschaft.
+SUBSEQUENT w/LOCATOR
+  <i>Alker/Hölter <span style="font-style:normal;">(Hrsg)</span></i>, Literaturwissenschaft 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Alker/Hölter <span style="font-style:normal;">(Hrsg)</span></i>, Literaturwissenschaft und Bibliotheken (2015) [Literaturwissenschaft].</div>

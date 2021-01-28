@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   OGH verstSen 11.09.2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> 123.
 FIRST w/LABEL
   OGH verstSen 11.09.2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> Abs 123.
+SUBSEQUENT
+  OGH verstSen 11.09.2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i>.
+SUBSEQUENT w/LOCATOR
+  OGH verstSen 11.09.2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH verstSen 11.09.2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i>.</div>

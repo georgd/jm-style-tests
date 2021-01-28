@@ -14,11 +14,15 @@ Austrian law with amended version, title and short
 
 >>===== RESULT =====>>
 FIRST
-  SchUG 1986.
+  Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
 FIRST w/LOCATOR
-  123 SchUG 1986.
+  123 Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
 FIRST w/LABEL
-  Abs 123 SchUG 1986.
+  Abs 123 Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
+SUBSEQUENT
+  SchUG 1986.
+SUBSEQUENT w/LOCATOR
+  123 SchUG 1986.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.</div>

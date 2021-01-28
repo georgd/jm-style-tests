@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Fischer-Czermak</i> in <i>Kletečka/Schauer</i>, ABGB-ON<sup>1.05</sup> § 165, 123.
 FIRST w/LABEL
   <i>Fischer-Czermak</i> in <i>Kletečka/Schauer</i>, ABGB-ON<sup>1.05</sup> § 165 Abs 123.
+SUBSEQUENT
+  <i>Fischer-Czermak</i> in <i>Kletečka/Schauer</i>, ABGB-ON<sup>1.05</sup> § 165.
+SUBSEQUENT w/LOCATOR
+  <i>Fischer-Czermak</i> in <i>Kletečka/Schauer</i>, ABGB-ON<sup>1.05</sup> § 165, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Kletečka/Schauer</i>, ABGB-ON<sup>1.05</sup> (Stand 1. 10. 2018, rdb.at).</div>

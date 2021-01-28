@@ -22,6 +22,10 @@ FIRST w/LOCATOR
   EuGH C-139/11, <i>Moré/KLM</i>, 123; OGH verst Senat 11. 9. 2012, 6 Ob 24/11i; 2 Ob 328/97t JBl 1999, 54 (<i>Karollus</i>); LG Feldkirch 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.
 FIRST w/LABEL
   EuGH C-139/11, <i>Moré/KLM</i>, Abs 123; OGH verst Senat 11. 9. 2012, 6 Ob 24/11i; 2 Ob 328/97t JBl 1999, 54 (<i>Karollus</i>); LG Feldkirch 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.
+SUBSEQUENT
+  EuGH C-139/11, <i>Moré/KLM</i>; OGH verst Senat 11. 9. 2012, 6 Ob 24/11i; 2 Ob 328/97t JBl 1999, 54 (<i>Karollus</i>); LG Feldkirch 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.
+SUBSEQUENT w/LOCATOR
+  EuGH C-139/11, <i>Moré/KLM</i>, 123; OGH verst Senat 11. 9. 2012, 6 Ob 24/11i; 2 Ob 328/97t JBl 1999, 54 (<i>Karollus</i>); LG Feldkirch 2R247/18s ECLI:AT:LG00929:2018:RFE0100040.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 22. 11. 2012, C-139/11, <i>Moré/KLM</i>.</div>

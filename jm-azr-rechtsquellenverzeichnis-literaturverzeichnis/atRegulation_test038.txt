@@ -14,11 +14,15 @@ Austrian regulation jurism
 
 >>===== RESULT =====>>
 FIRST
-  Erfolgsrechnung zusPV.
+  Erfolgsrechnung zusPV PI Linz AG avsv 2020/66.
 FIRST w/LOCATOR
-  123 Erfolgsrechnung zusPV.
+  123 Erfolgsrechnung zusPV PI Linz AG avsv 2020/66.
 FIRST w/LABEL
-  Abs 123 Erfolgsrechnung zusPV.
+  Abs 123 Erfolgsrechnung zusPV PI Linz AG avsv 2020/66.
+SUBSEQUENT
+  Erfolgsrechnung zusPV.
+SUBSEQUENT w/LOCATOR
+  123 Erfolgsrechnung zusPV.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Erfolgsrechnung zusPV PI Linz AG avsv 2020/66.</div>

@@ -20,6 +20,10 @@ FIRST w/LOCATOR
   OGH 11. 9. 2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> 123; 4 Ob 8/11x wobl 2010/35, 55 (<i>Guntter</i>).
 FIRST w/LABEL
   OGH 11. 9. 2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> Abs 123; 4 Ob 8/11x wobl 2010/35, 55 (<i>Guntter</i>).
+SUBSEQUENT
+  OGH 11. 9. 2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i>; 4 Ob 8/11x wobl 2010/35, 55 (<i>Guntter</i>).
+SUBSEQUENT w/LOCATOR
+  OGH 11. 9. 2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i> 123; 4 Ob 8/11x wobl 2010/35, 55 (<i>Guntter</i>).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">OGH 11. 9. 2012, 6 Ob 24/11i, <i>AGB und Unterlassungserklärung</i>.</div>

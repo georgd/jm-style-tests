@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Prader</i>, MRG<sup>5.10</sup> § 29, 123.
 FIRST w/LABEL
   <i>Prader</i>, MRG<sup>5.10</sup> § 29 Abs 123.
+SUBSEQUENT
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29.
+SUBSEQUENT w/LOCATOR
+  <i>Prader</i>, MRG<sup>5.10</sup> § 29, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Prader</i>, MRG<sup>5.10</sup> (Stand 1. 1. 2017, Manz Wohnrecht in rdb.at).</div>

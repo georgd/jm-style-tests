@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Resch</i> in GedS Rebhahn 503 (123).
 FIRST w/LABEL
   <i>Resch</i> in GedS Rebhahn 503 Abs 123.
+SUBSEQUENT
+  <i>Resch</i> in GedS Rebhahn 503.
+SUBSEQUENT w/LOCATOR
+  <i>Resch</i> in GedS Rebhahn 503 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Resch</i>, Die Auslegung von Gliedstaatsverträgen gem Art 15a B-VG, in GedS Rebhahn (2019) 503.</div>

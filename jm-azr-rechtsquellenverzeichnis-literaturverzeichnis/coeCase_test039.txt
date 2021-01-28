@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   EKMR 24.06.1965, 1474/62 ea, <i>Belgischer Sprachenfall</i>, 123.
 FIRST w/LABEL
   EKMR 24.06.1965, 1474/62 ea, <i>Belgischer Sprachenfall</i>, Abs 123.
+SUBSEQUENT
+  EKMR 24.06.1965, 1474/62 ea, <i>Belgischer Sprachenfall</i>.
+SUBSEQUENT w/LOCATOR
+  EKMR 24.06.1965, 1474/62 ea, <i>Belgischer Sprachenfall</i>, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EKMR 24.06.1965, 1474/62 ea, <i>Belgischer Sprachenfall</i>.</div>

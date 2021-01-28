@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   <i>Apathy</i> in <i>Artmann/Rüffler/Torggler</i> 1 (123).
 FIRST w/LABEL
   <i>Apathy</i> in <i>Artmann/Rüffler/Torggler</i> 1 Abs 123.
+SUBSEQUENT
+  <i>Apathy</i> in <i>Artmann ea</i> 1.
+SUBSEQUENT w/LOCATOR
+  <i>Apathy</i> in <i>Artmann ea</i> 1 (123).
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry"><i>Apathy</i>, Hinzurechnung und Anrechnung im neuen Erbrecht, in <i>Artmann/Rüffler/Torggler <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaftsrecht und Erbrecht (2016) 1.</div>

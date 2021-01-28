@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   SA <i>Szpunar</i> C-390/18, <i>AIRBNB Irland</i>, 123.
 FIRST w/LABEL
   SA <i>Szpunar</i> C-390/18, <i>AIRBNB Irland</i>, Abs 123.
+SUBSEQUENT
+  SA <i>Szpunar</i> C-390/18, <i>AIRBNB Irland</i>.
+SUBSEQUENT w/LOCATOR
+  SA <i>Szpunar</i> C-390/18, <i>AIRBNB Irland</i>, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">SA <i>Szpunar</i> 30. 4. 2019, C-390/18, <i>AIRBNB Irland</i>.</div>

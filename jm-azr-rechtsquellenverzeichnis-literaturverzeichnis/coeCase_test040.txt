@@ -19,6 +19,10 @@ FIRST w/LOCATOR
   EGMR 08.07.2008 (GK), 10226/03, <i>Yumak und Sadak/TR</i>, 123.
 FIRST w/LABEL
   EGMR 08.07.2008 (GK), 10226/03, <i>Yumak und Sadak/TR</i>, Abs 123.
+SUBSEQUENT
+  EGMR 08.07.2008 (GK), 10226/03, <i>Yumak und Sadak/TR</i>.
+SUBSEQUENT w/LOCATOR
+  EGMR 08.07.2008 (GK), 10226/03, <i>Yumak und Sadak/TR</i>, 123.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EGMR 08.07.2008 (GK), 10226/03, <i>Yumak und Sadak/TR</i>.</div>

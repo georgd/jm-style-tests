@@ -15,11 +15,15 @@ Austrian law with amended version, title and short
 
 >>===== RESULT =====>>
 FIRST
-  SchUG; SchUG.
+  Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2020/80; Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2008/117.
 FIRST w/LOCATOR
-  123 SchUG; SchUG.
+  123 Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2020/80; Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2008/117.
 FIRST w/LABEL
-  Abs 123 SchUG; SchUG.
+  Abs 123 Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2020/80; Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2008/117.
+SUBSEQUENT
+  SchUG; Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2008/117.
+SUBSEQUENT w/LOCATOR
+  123 SchUG; Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2008/117.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Schulunterrichtsgesetz BGBl 1986/472 idF BGBl I 2020/80.</div>

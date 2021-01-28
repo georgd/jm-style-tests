@@ -14,11 +14,15 @@ should pass test style_test026
 
 >>===== RESULT =====>>
 FIRST
-  Beitrittsvertrag HR.
+  Beitrittsvertrag HR, Abl L 2012/112, 10.
 FIRST w/LOCATOR
-  123 Beitrittsvertrag HR.
+  123 Beitrittsvertrag HR, Abl L 2012/112, 10.
 FIRST w/LABEL
-  Abs 123 Beitrittsvertrag HR.
+  Abs 123 Beitrittsvertrag HR, Abl L 2012/112, 10.
+SUBSEQUENT
+  Beitrittsvertrag HR.
+SUBSEQUENT w/LOCATOR
+  123 Beitrittsvertrag HR.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Beitrittsvertrag HR, Abl L 2012/112, 10.</div>

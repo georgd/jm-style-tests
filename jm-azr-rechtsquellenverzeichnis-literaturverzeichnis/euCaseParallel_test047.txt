@@ -20,6 +20,10 @@ FIRST w/LOCATOR
   EuGH C-40/15, <i>Minister Finansov/Aspiro SA</i>, ECLI:EU:C:2016:172 Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703.
 FIRST w/LABEL
   EuGH C-40/15, <i>Minister Finansov/Aspiro SA</i>, ECLI:EU:C:2016:172 Revista española de Derecho Financiero 2016/171, 263 Abs 123 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703.
+SUBSEQUENT
+  EuGH C-40/15, <i>Minister Finansov/Aspiro SA</i>, ECLI:EU:C:2016:172 Revista española de Derecho Financiero 2016/171, 263 = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703.
+SUBSEQUENT w/LOCATOR
+  EuGH C-40/15, <i>Minister Finansov/Aspiro SA</i>, ECLI:EU:C:2016:172 Revista española de Derecho Financiero 2016/171, 263 (123 <i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">EuGH 17. 3. 2016, C-40/15, <i>Minister Finansov/Aspiro SA</i>, ECLI:EU:C:2016:172 Revista española de Derecho Financiero 2016/171, 263 (<i>Carrasco González</i>) = Jurisprudence de la CJUE 2016: Décisions et commentaires (2017) 703 (<i>Pailler</i>).</div>

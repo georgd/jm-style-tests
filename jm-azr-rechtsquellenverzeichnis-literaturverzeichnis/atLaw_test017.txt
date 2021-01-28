@@ -14,11 +14,15 @@ should pass test style_test017
 
 >>===== RESULT =====>>
 FIRST
-  Nachhaltigkeits-BVG.
+  Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung BGBl I 2013/111.
 FIRST w/LOCATOR
-  123 Nachhaltigkeits-BVG.
+  123 Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung BGBl I 2013/111.
 FIRST w/LABEL
-  Abs 123 Nachhaltigkeits-BVG.
+  Abs 123 Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung BGBl I 2013/111.
+SUBSEQUENT
+  Nachhaltigkeits-BVG.
+SUBSEQUENT w/LOCATOR
+  123 Nachhaltigkeits-BVG.
 BIBLIOGRAPHY
 <div class="csl-bib-body">
   <div class="csl-entry">Bundesverfassungsgesetz über die Nachhaltigkeit, den Tierschutz, den umfassenden Umweltschutz, die Sicherstellung der Wasser- und Lebensmittelversorgung und die Forschung BGBl I 2013/111.</div>
