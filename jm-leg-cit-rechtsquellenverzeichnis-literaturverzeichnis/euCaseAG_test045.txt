@@ -35,8 +35,8 @@ BIBLIOGRAPHY
         "family": "Szpunar"
       }
     ],
-    "authority": "Advocate General",
-    "number": "Rs C-390/18",
+    "authority": "ag",
+    "number": "C-390/18",
     "issued": {
       "date-parts": [
         [
