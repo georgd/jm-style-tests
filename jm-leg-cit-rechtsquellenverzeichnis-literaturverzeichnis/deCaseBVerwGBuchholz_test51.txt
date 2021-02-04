@@ -25,6 +25,16 @@ BIBLIOGRAPHY
 </div>
 <<===== RESULT =====<<
 
+>>== ABBREVIATIONS ==>>
+{
+    "default": {
+        "container-title": {
+            "Buchholz": "#2>>>Buchholz"
+        }
+    }
+}
+<<== ABBREVIATIONS ==<<
+
 >>===== INPUT =====>>
 [
   {
