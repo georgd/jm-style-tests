@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "PRMQAHX5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test061
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BVerfGE 58, 300.
+FIRST w/LOCATOR
+  BVerfGE 58, 300, 123.
+FIRST w/LABEL
+  BVerfGE 58, 300 Abs 123.
+SUBSEQUENT
+  BVerfGE 58, 300.
+SUBSEQUENT w/LOCATOR
+  BVerfGE 58, 300, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">BVerfGE 58, 300.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bverfg",
+    "issued": {
+      "date-parts": [
+        [
+          1981,
+          7,
+          15
+        ]
+      ]
+    },
+    "number": "1 BvL 77/78",
+    "volume": "58",
+    "page": "300",
+    "references": "LG Münster, 19.11.1974 - 11 O 376/74; OLG Hamm, 04.11.1975 - 10 U 19/75; BGH, 13.07.1978 - III ZR 28/76; BVerfG, 15.07.1981 - 1 BvL 77/78; BGH, 03.06.1982 - III ZR 28/76",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "BVerfGE",
+    "jurisdiction": "de"
+  }
+]
+<<===== INPUT =====<<

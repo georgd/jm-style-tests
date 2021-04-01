@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "TQGQIGTG"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Austrian law with amended version, title and short
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
+FIRST w/LOCATOR
+  123 Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
+FIRST w/LABEL
+  Abs 123 Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.
+SUBSEQUENT
+  SchUG 1986.
+SUBSEQUENT w/LOCATOR
+  123 SchUG 1986.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Schulunterrichtsgesetz 1986 BGBl 1986/472 idF BGBl I 2008/117.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Schulunterrichtsgesetz 1986",
+    "container-title": "BGBl",
+    "volume": "472",
+    "issued": {
+      "date-parts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "references": "BGBl I 2008/117",
+    "shortTitle": "SchUG 1986",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

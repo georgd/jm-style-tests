@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "5ZBETVL6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+Chapter
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Apathy</i>, Hinzurechnung und Anrechnung im neuen Erbrecht, in <i>Artmann/Rüffler/Torggler <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaftsrecht und Erbrecht (2016) 1.
+FIRST w/LOCATOR
+  <i>Apathy</i>, Hinzurechnung und Anrechnung im neuen Erbrecht, in <i>Artmann/Rüffler/Torggler <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaftsrecht und Erbrecht (2016) 1 (123).
+FIRST w/LABEL
+  <i>Apathy</i>, Hinzurechnung und Anrechnung im neuen Erbrecht, in <i>Artmann/Rüffler/Torggler <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaftsrecht und Erbrecht (2016) 1 Abs 123.
+SUBSEQUENT
+  <i>Apathy</i> in <i>Artmann/Rüffler/Torggler</i> 1.
+SUBSEQUENT w/LOCATOR
+  <i>Apathy</i> in <i>Artmann/Rüffler/Torggler</i> 1 (123).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Apathy</i>, Hinzurechnung und Anrechnung im neuen Erbrecht, in <i>Artmann/Rüffler/Torggler <span style="font-style:normal;">(Hrsg)</span></i>, Gesellschaftsrecht und Erbrecht (2016) 1.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "chapter",
+    "title": "Hinzurechnung und Anrechnung im neuen Erbrecht",
+    "author": [
+      {
+        "literal": "Apathy"
+      }
+    ],
+    "editor": [
+      {
+        "family": "Artmann"
+      },
+      {
+        "family": "Rüffler"
+      },
+      {
+        "family": "Torggler"
+      }
+    ],
+    "container-title": "Gesellschaftsrecht und Erbrecht",
+    "issued": {
+      "raw": "2016"
+    },
+    "page": "1",
+    "language": "de",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "language-name": "de"
+  }
+]
+<<===== INPUT =====<<

@@ -1,0 +1,62 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "LMSHMBL5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+ECJ second AG
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  GA <i>Colomer</i> II C-397/01 bis C-403/01, <i>Pfeiffer ea</i>.
+FIRST w/LOCATOR
+  GA <i>Colomer</i> II C-397/01 bis C-403/01, <i>Pfeiffer ea</i>, 123.
+FIRST w/LABEL
+  GA <i>Colomer</i> II C-397/01 bis C-403/01, <i>Pfeiffer ea</i>, Abs 123.
+SUBSEQUENT
+  GA <i>Colomer</i> II C-397/01 bis C-403/01, <i>Pfeiffer ea</i>.
+SUBSEQUENT w/LOCATOR
+  GA <i>Colomer</i> II C-397/01 bis C-403/01, <i>Pfeiffer ea</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">GA <i>Colomer</i> II 27. 4. 2004, C-397/01 bis C-403/01, <i>Pfeiffer ea</i>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Pfeiffer ea",
+    "author": [
+      {
+        "family": "Colomer"
+      }
+    ],
+    "authority": "ag",
+    "number": "C-397/01 bis C-403/01",
+    "issued": {
+      "date-parts": [
+        [
+          2004,
+          4,
+          27
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu",
+    "division": "II"
+  }
+]
+<<===== INPUT =====<<

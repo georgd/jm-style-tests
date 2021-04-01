@@ -1,0 +1,59 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W5LNJWQ5"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+BVerwG, Beschl. v. 9.1.1999 – 11 C 8/97, Buchholz 
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131.
+FIRST w/LOCATOR
+  BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131, S. 123.
+FIRST w/LABEL
+  BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131, Abs 123.
+SUBSEQUENT
+  BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131.
+SUBSEQUENT w/LOCATOR
+  BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131, S. 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">BVerwG, Beschl. v. 1. 9. 1999 – 11 C 8/97, Buchholz 310 § 65 VwGO Nr. 131, S. 2.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bverwg",
+    "issued": {
+      "date-parts": [
+        [
+          1999,
+          9,
+          1
+        ]
+      ]
+    },
+    "number": "11 C 8/97",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "Buchholz",
+    "jurisdiction": "de",
+    "document-name": "310 § 65 VwGO",
+    "genre": "Beschl.",
+    "undefined": "131"
+  }
+]
+<<===== INPUT =====<<

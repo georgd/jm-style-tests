@@ -1,0 +1,57 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "ISK5BMLS"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test039
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BVerwG, B v. 7. 10. 2002 – 02.48 (n. v.).
+FIRST w/LOCATOR
+  BVerwG, B v. 7. 10. 2002 – 02.48, 123 (n. v.).
+FIRST w/LABEL
+  BVerwG, B v. 7. 10. 2002 – 02.48 Abs 123 (n. v.).
+SUBSEQUENT
+  BVerwG, B v. 7. 10. 2002 – 02.48 (n. v.).
+SUBSEQUENT w/LOCATOR
+  BVerwG, B v. 7. 10. 2002 – 02.48, 123 (n. v.).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">BVerwG, B v. 7. 10. 2002 – 02.48 (n. v.).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bverwg",
+    "number": "02.48",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          10,
+          7
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "call-number": "DE397",
+    "jurisdiction": "de",
+    "genre": "B"
+  }
+]
+<<===== INPUT =====<<

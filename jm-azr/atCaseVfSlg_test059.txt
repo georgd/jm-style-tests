@@ -1,0 +1,54 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "1234567"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test035
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  VfSlg 18950/2009.
+FIRST w/LOCATOR
+  VfSlg 18950/2009, 123.
+FIRST w/LABEL
+  VfSlg 18950/2009 Abs 123.
+SUBSEQUENT
+  VfSlg 18950/2009.
+SUBSEQUENT w/LOCATOR
+  VfSlg 18950/2009, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">VfSlg 18950/2009.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "vfgh",
+    "number": "A28/10 ua",
+    "issued": {
+      "literal": "11.12.2009",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "issue": "18950",
+    "collection-number": "2009",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "at"
+  }
+]
+<<===== INPUT =====<<

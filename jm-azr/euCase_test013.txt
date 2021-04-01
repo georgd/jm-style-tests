@@ -1,0 +1,56 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "P5SBRNE6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+EuGH
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  EuGH C-139/11, <i>Moré/KLM</i>.
+FIRST w/LOCATOR
+  EuGH C-139/11, <i>Moré/KLM</i>, 123.
+FIRST w/LABEL
+  EuGH C-139/11, <i>Moré/KLM</i>, Abs 123.
+SUBSEQUENT
+  EuGH C-139/11, <i>Moré/KLM</i>.
+SUBSEQUENT w/LOCATOR
+  EuGH C-139/11, <i>Moré/KLM</i>, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">EuGH 22. 11. 2012, C-139/11, <i>Moré/KLM</i>.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Moré/KLM",
+    "authority": "ecj",
+    "number": "C-139/11",
+    "issued": {
+      "date-parts": [
+        [
+          2012,
+          11,
+          22
+        ]
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<

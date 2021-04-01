@@ -1,0 +1,53 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "CKKJ5R2I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test032
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  BGH, 09.09.2019 – IV ZR 241/18 (n. v.).
+FIRST w/LOCATOR
+  BGH, 09.09.2019 – IV ZR 241/18, 123 (n. v.).
+FIRST w/LABEL
+  BGH, 09.09.2019 – IV ZR 241/18 Abs 123 (n. v.).
+SUBSEQUENT
+  BGH, 09.09.2019 – IV ZR 241/18 (n. v.).
+SUBSEQUENT w/LOCATOR
+  BGH, 09.09.2019 – IV ZR 241/18, 123 (n. v.).
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">BGH, 09.09.2019 – IV ZR 241/18 (n. v.).</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "authority": "bgh",
+    "number": "IV ZR 241/18",
+    "issued": {
+      "literal": "09.09.2019",
+      "date-parts": [
+        [],
+        []
+      ]
+    },
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "de"
+  }
+]
+<<===== INPUT =====<<
