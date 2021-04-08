@@ -1,0 +1,74 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "BQDT2ZF6"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test012
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Council Directive 2002/60/EC laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever [2002] OJ L192/27.
+FIRST w/LOCATOR
+  Council Directive 2002/60/EC laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever [2002] OJ L192/27, 123.
+FIRST w/LABEL
+  Council Directive 2002/60/EC laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever [2002] OJ L192/27, para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  Council Directive 2002/60/EC.
+SUBSEQUENT w/LOCATOR
+  Council Directive 2002/60/EC, 123.
+SUBSEQUENT w/BACKREF
+  Council Directive 2002/60/EC.
+SUBSEQUENT w/BACKREF+LOCATOR
+  Council Directive 2002/60/EC, 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Council Directive 2002/60/EC laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever [2002] OJ L192/27.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legislation",
+    "title": "Council Directive 2002/60/EC laying down specific provisions for the control of African swine fever and amending Directive 92/119/EEC as regards Teschen disease and African swine fever",
+    "container-title": "OJ",
+    "volume": "L192",
+    "number": "2002/60/EC",
+    "issued": {
+      "date-parts": [
+        [
+          2002,
+          6,
+          27
+        ]
+      ]
+    },
+    "page": "27",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "jurisdiction": "eu.int",
+    "genre": "Council Directive",
+    "publication-date": {
+      "date-parts": [
+        [
+          2002
+        ]
+      ]
+    }
+  }
+]
+<<===== INPUT =====<<

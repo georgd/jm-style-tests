@@ -1,0 +1,66 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "W9BC7SFQ"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test015
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (Case COMP/37685) Commission Decision 2004/33/EC [2004] OJ L11/17.
+FIRST w/LOCATOR
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (Case COMP/37685) Commission Decision 2004/33/EC [2004] OJ L11/17, 123.
+FIRST w/LABEL
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (Case COMP/37685) Commission Decision 2004/33/EC [2004] OJ L11/17, para 123.
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry"><i>Georg Verkehrsorgani v Ferrovie dello Stato</i> (Case COMP/37685) Commission Decision 2004/33/EC [2004] OJ L11/17.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Georg Verkehrsorgani v Ferrovie dello Stato",
+    "authority": "ec",
+    "issued": {
+      "date-parts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "number": "COMP/37.685",
+    "volume": "L11",
+    "page": "17",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "OJ",
+    "jurisdiction": "eu.int",
+    "document-number": "2004/33/EC"
+  }
+]
+<<===== INPUT =====<<

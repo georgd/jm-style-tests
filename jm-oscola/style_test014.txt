@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "6S2U289I"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test014
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Joined Cases C–430 and 431/93 <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> [1995] ECR I–4705.
+FIRST w/LOCATOR
+  Joined Cases C–430 and 431/93 <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> [1995] ECR I–4705, 123.
+FIRST w/LABEL
+  Joined Cases C–430 and 431/93 <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> [1995] ECR I–4705 [123].
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Joined Cases C–430 and 431/93 <i>Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten</i> [1995] ECR I–4705.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Jereon van Schijndel v Stichting Pensioenfonds voor Fysiotherapeuten",
+    "authority": "ecj",
+    "issued": {
+      "date-parts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "number": "C–430 and 431/93",
+    "page": "I–4705",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "ECR",
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<

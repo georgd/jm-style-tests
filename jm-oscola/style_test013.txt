@@ -1,0 +1,64 @@
+>>===== MODE =====>>
+all
+<<===== MODE =====<<
+
+>>===== KEYS =====>>
+[
+  "INVNPBK4"
+]
+<<===== KEYS =====<<
+
+>>===== DESCRIPTION =====>>
+should pass test style_test013
+<<===== DESCRIPTION =====<<
+
+>>===== RESULT =====>>
+FIRST
+  Case 240/83 <i>Procureur de la République v ADBHU</i> [1985] ECR 531.
+FIRST w/LOCATOR
+  Case 240/83 <i>Procureur de la République v ADBHU</i> [1985] ECR 531, 123.
+FIRST w/LABEL
+  Case 240/83 <i>Procureur de la République v ADBHU</i> [1985] ECR 531 [123].
+IBID
+  ibid.
+IBID w/LOCATOR
+  ibid at 123.
+SUBSEQUENT
+  <i>Procureur de la République v ADBHU</i>.
+SUBSEQUENT w/LOCATOR
+  <i>Procureur de la République v ADBHU</i> 123.
+SUBSEQUENT w/BACKREF
+  <i>Procureur de la République v ADBHU</i> (n 1).
+SUBSEQUENT w/BACKREF+LOCATOR
+  <i>Procureur de la République v ADBHU</i> (n 1) 123.
+BIBLIOGRAPHY
+<div class="csl-bib-body">
+  <div class="csl-entry">Case 240/83 <i>Procureur de la République v ADBHU</i> [1985] ECR 531.</div>
+</div>
+<<===== RESULT =====<<
+
+>>===== INPUT =====>>
+[
+  {
+    "type": "legal_case",
+    "title": "Procureur de la République v ADBHU",
+    "authority": "ecj",
+    "issued": {
+      "date-parts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "number": "240/83",
+    "page": "531",
+    "note": "",
+    "multi": {
+      "main": {},
+      "_keys": {}
+    },
+    "container-title": "ECR",
+    "jurisdiction": "eu.int:cjeu"
+  }
+]
+<<===== INPUT =====<<
